@@ -1,12 +1,14 @@
-Got it! Below is a custom `README.md` for the **Ultralytics YOLO11** project. This new version will include all the necessary details, guidance for developers, and instructions on contributing to the project:
+Here is a `README.md` for the **Ultralytics YOLO11** project. This new version will include all the necessary details, guidance for developers, and instructions on contributing to the project:
 
 ---
 
 # Ultralytics YOLO11
 
-Welcome to **Ultralytics YOLO11** – a cutting-edge, state-of-the-art (SOTA) model designed for efficient and accurate object detection, segmentation, pose estimation, image classification, and more! Built on the success of previous YOLO versions, YOLO11 introduces new features, enhancements, and optimizations that push the limits of performance and flexibility.
+**Ultralytics YOLO11** – a cutting-edge, state-of-the-art (SOTA) model designed for efficient and accurate object detection, segmentation, pose estimation, image classification, and more! Built on the success of previous YOLO versions, YOLO11 introduces new features, enhancements, and optimizations that push the limits of performance and flexibility.
 
-This repository will guide you through using YOLO11, as well as how to contribute to its development. If you're looking to get started as a developer, the following sections provide detailed instructions on how to contribute, run the code, and make the most of this incredible model.
+This repository will guide you through using YOLO11, as well as how to contribute to its development. If you're looking to get started as a developer, the following sections provide detailed instructions on 
+
+`how to contribute`, `run the code`, and `make the most of this incredible model`.
 
 ## Table of Contents
 
@@ -25,9 +27,13 @@ This repository will guide you through using YOLO11, as well as how to contribut
 **YOLO11** is the latest version of the YOLO series developed by Ultralytics. It improves upon the previous YOLO models with enhanced accuracy and speed, making it ideal for a range of tasks such as:
 
 - **Object Detection and Tracking**
+
 - **Instance Segmentation**
+
 - **Image Classification**
+
 - **Pose Estimation**
+
 
 YOLO11 is built for high performance with **PyTorch** and supports **ONNX** for easy deployment across various platforms.
 
